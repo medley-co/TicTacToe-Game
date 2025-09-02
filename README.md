@@ -25,7 +25,7 @@ A strategic twist on the classic Tic-Tac-Toe game, built in Python. Players plac
 Clone the repository and navigate into the project folder:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/medley-co/TicTacToe-Game.git)
 cd tictactoe
 ```
 
